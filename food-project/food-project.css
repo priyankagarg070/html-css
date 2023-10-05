@@ -1,0 +1,40 @@
+
+html{
+    scroll-behavior: smooth;
+}
+
+body{
+    text-align: center;
+    margin: 0px;
+    background: linear-gradient(45deg, lightcoral, lightgreen) ;
+}
+table{
+    width: 100%;
+}
+h1{
+    font-family: castellar;
+    font-size: 48px;
+    text-shadow: 0 0 10px black;
+    
+}
+h2{
+    width: 50%;
+    color: white;
+    background: linear-gradient(45deg, black, darkred, black);
+    margin: auto;
+    padding: 15px;
+    border-bottom: 5px solid white;
+    border-radius: 60% 60% 0% 0%;
+
+}
+img{
+    width: 270px;
+    height: 160px;
+    border-radius: 20px;
+    box-shadow: 0 0 10px black;
+
+}
+img.main{
+    width: 350px;
+    height: 250px;
+}
